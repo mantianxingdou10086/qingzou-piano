@@ -1,0 +1,978 @@
+[
+  {
+    "name": "A0.mp3",
+    "path": "salamander/A0.mp3",
+    "sha": "0f8ccd9719dcad3fc5999b8cb3fd21486dfafd6a",
+    "size": 113969,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A0.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A0.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/0f8ccd9719dcad3fc5999b8cb3fd21486dfafd6a",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A0.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A0.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/0f8ccd9719dcad3fc5999b8cb3fd21486dfafd6a",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A0.mp3"
+    }
+  },
+  {
+    "name": "A0.ogg",
+    "path": "salamander/A0.ogg",
+    "sha": "510dcbd872eb87420b98684eec2818c66cdbf501",
+    "size": 397686,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A0.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A0.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/510dcbd872eb87420b98684eec2818c66cdbf501",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A0.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A0.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/510dcbd872eb87420b98684eec2818c66cdbf501",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A0.ogg"
+    }
+  },
+  {
+    "name": "A1.mp3",
+    "path": "salamander/A1.mp3",
+    "sha": "0b2ff3a2688c890f3aaa6b98805cb8959d997890",
+    "size": 115061,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A1.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A1.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/0b2ff3a2688c890f3aaa6b98805cb8959d997890",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A1.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A1.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/0b2ff3a2688c890f3aaa6b98805cb8959d997890",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A1.mp3"
+    }
+  },
+  {
+    "name": "A1.ogg",
+    "path": "salamander/A1.ogg",
+    "sha": "f9632616431d4c901ddf0bce077a01ad6bd7c292",
+    "size": 381920,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A1.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A1.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/f9632616431d4c901ddf0bce077a01ad6bd7c292",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A1.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A1.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/f9632616431d4c901ddf0bce077a01ad6bd7c292",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A1.ogg"
+    }
+  },
+  {
+    "name": "A2.mp3",
+    "path": "salamander/A2.mp3",
+    "sha": "c46996922c542f7a2ccf881a268e7a1ce008458b",
+    "size": 81678,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A2.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A2.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/c46996922c542f7a2ccf881a268e7a1ce008458b",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A2.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A2.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/c46996922c542f7a2ccf881a268e7a1ce008458b",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A2.mp3"
+    }
+  },
+  {
+    "name": "A2.ogg",
+    "path": "salamander/A2.ogg",
+    "sha": "ff4cad267b3d8da336ec9490d339ff1fc216e7d5",
+    "size": 263698,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A2.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A2.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/ff4cad267b3d8da336ec9490d339ff1fc216e7d5",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A2.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A2.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/ff4cad267b3d8da336ec9490d339ff1fc216e7d5",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A2.ogg"
+    }
+  },
+  {
+    "name": "A3.mp3",
+    "path": "salamander/A3.mp3",
+    "sha": "57924c5572fd136eca8e4dad444a8d8e22b7bbc5",
+    "size": 74526,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A3.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A3.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/57924c5572fd136eca8e4dad444a8d8e22b7bbc5",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A3.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A3.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/57924c5572fd136eca8e4dad444a8d8e22b7bbc5",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A3.mp3"
+    }
+  },
+  {
+    "name": "A3.ogg",
+    "path": "salamander/A3.ogg",
+    "sha": "5fb374f945069bc1a4075c08ea96854fa804f77c",
+    "size": 258086,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A3.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A3.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/5fb374f945069bc1a4075c08ea96854fa804f77c",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A3.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A3.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/5fb374f945069bc1a4075c08ea96854fa804f77c",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A3.ogg"
+    }
+  },
+  {
+    "name": "A4.mp3",
+    "path": "salamander/A4.mp3",
+    "sha": "3b19af879f0e0bc07a02cff767b3ff4e95400884",
+    "size": 61148,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A4.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A4.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/3b19af879f0e0bc07a02cff767b3ff4e95400884",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A4.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A4.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/3b19af879f0e0bc07a02cff767b3ff4e95400884",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A4.mp3"
+    }
+  },
+  {
+    "name": "A4.ogg",
+    "path": "salamander/A4.ogg",
+    "sha": "931f2f15873570c2c962c31efd4e790d96017f70",
+    "size": 221173,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A4.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A4.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/931f2f15873570c2c962c31efd4e790d96017f70",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A4.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A4.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/931f2f15873570c2c962c31efd4e790d96017f70",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A4.ogg"
+    }
+  },
+  {
+    "name": "A5.mp3",
+    "path": "salamander/A5.mp3",
+    "sha": "d17d5532527d4af7fccfbc7638af3dbc1ec5e9f3",
+    "size": 45747,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A5.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A5.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/d17d5532527d4af7fccfbc7638af3dbc1ec5e9f3",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A5.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A5.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/d17d5532527d4af7fccfbc7638af3dbc1ec5e9f3",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A5.mp3"
+    }
+  },
+  {
+    "name": "A5.ogg",
+    "path": "salamander/A5.ogg",
+    "sha": "1b3d80177e42e84c93815f77ec8d38ab30b6cefb",
+    "size": 176156,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A5.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A5.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/1b3d80177e42e84c93815f77ec8d38ab30b6cefb",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A5.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A5.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/1b3d80177e42e84c93815f77ec8d38ab30b6cefb",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A5.ogg"
+    }
+  },
+  {
+    "name": "A6.mp3",
+    "path": "salamander/A6.mp3",
+    "sha": "8464e29082f6ecff0491759b7c98ec424df60fda",
+    "size": 30013,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A6.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A6.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/8464e29082f6ecff0491759b7c98ec424df60fda",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A6.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A6.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/8464e29082f6ecff0491759b7c98ec424df60fda",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A6.mp3"
+    }
+  },
+  {
+    "name": "A6.ogg",
+    "path": "salamander/A6.ogg",
+    "sha": "79eebc6200893b5a594fccc0fb0765b4dfd32403",
+    "size": 114757,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A6.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A6.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/79eebc6200893b5a594fccc0fb0765b4dfd32403",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A6.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A6.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/79eebc6200893b5a594fccc0fb0765b4dfd32403",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A6.ogg"
+    }
+  },
+  {
+    "name": "A7.mp3",
+    "path": "salamander/A7.mp3",
+    "sha": "5e5aa4dc53b2825684740467a194ee9ac6fd76b8",
+    "size": 18730,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A7.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A7.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/5e5aa4dc53b2825684740467a194ee9ac6fd76b8",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A7.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A7.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/5e5aa4dc53b2825684740467a194ee9ac6fd76b8",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A7.mp3"
+    }
+  },
+  {
+    "name": "A7.ogg",
+    "path": "salamander/A7.ogg",
+    "sha": "10dd0137b6761b4c8dc9f6c2903c3f5a3eb3b0fa",
+    "size": 69360,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A7.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/A7.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/10dd0137b6761b4c8dc9f6c2903c3f5a3eb3b0fa",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/A7.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/A7.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/10dd0137b6761b4c8dc9f6c2903c3f5a3eb3b0fa",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/A7.ogg"
+    }
+  },
+  {
+    "name": "C1.mp3",
+    "path": "salamander/C1.mp3",
+    "sha": "2b840fc55266201f40769bbfb3c721c7f6ed55fc",
+    "size": 110199,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C1.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C1.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/2b840fc55266201f40769bbfb3c721c7f6ed55fc",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C1.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C1.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/2b840fc55266201f40769bbfb3c721c7f6ed55fc",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C1.mp3"
+    }
+  },
+  {
+    "name": "C1.ogg",
+    "path": "salamander/C1.ogg",
+    "sha": "91931b67964a97ca7c44361ab4001568fc5ca1d2",
+    "size": 378472,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C1.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C1.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/91931b67964a97ca7c44361ab4001568fc5ca1d2",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C1.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C1.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/91931b67964a97ca7c44361ab4001568fc5ca1d2",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C1.ogg"
+    }
+  },
+  {
+    "name": "C2.mp3",
+    "path": "salamander/C2.mp3",
+    "sha": "3fca8d06f2544e9203439b83fc609ffdf7ff7174",
+    "size": 110357,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C2.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C2.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/3fca8d06f2544e9203439b83fc609ffdf7ff7174",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C2.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C2.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/3fca8d06f2544e9203439b83fc609ffdf7ff7174",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C2.mp3"
+    }
+  },
+  {
+    "name": "C2.ogg",
+    "path": "salamander/C2.ogg",
+    "sha": "813de9729845ebde17fc8c16de2118d1ef874429",
+    "size": 369529,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C2.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C2.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/813de9729845ebde17fc8c16de2118d1ef874429",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C2.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C2.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/813de9729845ebde17fc8c16de2118d1ef874429",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C2.ogg"
+    }
+  },
+  {
+    "name": "C3.mp3",
+    "path": "salamander/C3.mp3",
+    "sha": "14daa30a2a796149883396b60ef84a3e16e48206",
+    "size": 78036,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C3.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C3.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/14daa30a2a796149883396b60ef84a3e16e48206",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C3.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C3.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/14daa30a2a796149883396b60ef84a3e16e48206",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C3.mp3"
+    }
+  },
+  {
+    "name": "C3.ogg",
+    "path": "salamander/C3.ogg",
+    "sha": "11a5fe54f0d330fd801462edd8e63e99d91b4dbd",
+    "size": 263870,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C3.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C3.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/11a5fe54f0d330fd801462edd8e63e99d91b4dbd",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C3.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C3.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/11a5fe54f0d330fd801462edd8e63e99d91b4dbd",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C3.ogg"
+    }
+  },
+  {
+    "name": "C4.mp3",
+    "path": "salamander/C4.mp3",
+    "sha": "d5f5819d32641247e33a452df3c81bd3f71422e8",
+    "size": 78718,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C4.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C4.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/d5f5819d32641247e33a452df3c81bd3f71422e8",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C4.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C4.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/d5f5819d32641247e33a452df3c81bd3f71422e8",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C4.mp3"
+    }
+  },
+  {
+    "name": "C4.ogg",
+    "path": "salamander/C4.ogg",
+    "sha": "d2a60651d2e5f184f95cc8fbaad95ccf0b0cecff",
+    "size": 265879,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C4.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C4.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/d2a60651d2e5f184f95cc8fbaad95ccf0b0cecff",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C4.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C4.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/d2a60651d2e5f184f95cc8fbaad95ccf0b0cecff",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C4.ogg"
+    }
+  },
+  {
+    "name": "C5.mp3",
+    "path": "salamander/C5.mp3",
+    "sha": "7064bc84bf13b14f2d8e7ec2dcfa69b2c80a8c06",
+    "size": 68920,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C5.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C5.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/7064bc84bf13b14f2d8e7ec2dcfa69b2c80a8c06",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C5.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C5.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/7064bc84bf13b14f2d8e7ec2dcfa69b2c80a8c06",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C5.mp3"
+    }
+  },
+  {
+    "name": "C5.ogg",
+    "path": "salamander/C5.ogg",
+    "sha": "5c496289e6f05ab3f213698a334c1c9441ce3067",
+    "size": 256407,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C5.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C5.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/5c496289e6f05ab3f213698a334c1c9441ce3067",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C5.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C5.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/5c496289e6f05ab3f213698a334c1c9441ce3067",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C5.ogg"
+    }
+  },
+  {
+    "name": "C6.mp3",
+    "path": "salamander/C6.mp3",
+    "sha": "c8e20f649bc1ab5d91803c2d97e4c279553496cc",
+    "size": 28065,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C6.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C6.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/c8e20f649bc1ab5d91803c2d97e4c279553496cc",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C6.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C6.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/c8e20f649bc1ab5d91803c2d97e4c279553496cc",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C6.mp3"
+    }
+  },
+  {
+    "name": "C6.ogg",
+    "path": "salamander/C6.ogg",
+    "sha": "31e8045325901e3289c2d66c21d0487d0c5c0ccd",
+    "size": 107642,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C6.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C6.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/31e8045325901e3289c2d66c21d0487d0c5c0ccd",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C6.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C6.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/31e8045325901e3289c2d66c21d0487d0c5c0ccd",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C6.ogg"
+    }
+  },
+  {
+    "name": "C7.mp3",
+    "path": "salamander/C7.mp3",
+    "sha": "4cf780bba322f85942dadfeb08f55693028569c0",
+    "size": 18963,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C7.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C7.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/4cf780bba322f85942dadfeb08f55693028569c0",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C7.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C7.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/4cf780bba322f85942dadfeb08f55693028569c0",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C7.mp3"
+    }
+  },
+  {
+    "name": "C7.ogg",
+    "path": "salamander/C7.ogg",
+    "sha": "b41a45f59122dcdcdfb81a607f0051f101a16444",
+    "size": 70568,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C7.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C7.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/b41a45f59122dcdcdfb81a607f0051f101a16444",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C7.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C7.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/b41a45f59122dcdcdfb81a607f0051f101a16444",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C7.ogg"
+    }
+  },
+  {
+    "name": "C8.mp3",
+    "path": "salamander/C8.mp3",
+    "sha": "9297538c383fddc416b618a37697180e302d5b14",
+    "size": 18914,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C8.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C8.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/9297538c383fddc416b618a37697180e302d5b14",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C8.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C8.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/9297538c383fddc416b618a37697180e302d5b14",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C8.mp3"
+    }
+  },
+  {
+    "name": "C8.ogg",
+    "path": "salamander/C8.ogg",
+    "sha": "15ebe08ebe421895303094e96519f21f0a4868b7",
+    "size": 68554,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C8.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/C8.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/15ebe08ebe421895303094e96519f21f0a4868b7",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/C8.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/C8.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/15ebe08ebe421895303094e96519f21f0a4868b7",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/C8.ogg"
+    }
+  },
+  {
+    "name": "Ds1.mp3",
+    "path": "salamander/Ds1.mp3",
+    "sha": "a5d68f53d927dfdd405828984bd65dd6792c36d7",
+    "size": 120625,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds1.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Ds1.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/a5d68f53d927dfdd405828984bd65dd6792c36d7",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Ds1.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds1.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/a5d68f53d927dfdd405828984bd65dd6792c36d7",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Ds1.mp3"
+    }
+  },
+  {
+    "name": "Ds1.ogg",
+    "path": "salamander/Ds1.ogg",
+    "sha": "d625a947a928541467b311ef33d974a4ccd1b955",
+    "size": 393097,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds1.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Ds1.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/d625a947a928541467b311ef33d974a4ccd1b955",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Ds1.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds1.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/d625a947a928541467b311ef33d974a4ccd1b955",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Ds1.ogg"
+    }
+  },
+  {
+    "name": "Ds2.mp3",
+    "path": "salamander/Ds2.mp3",
+    "sha": "9e7cf544f0656a3cb9fcebd2c6e9d4da4efb8eda",
+    "size": 110796,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds2.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Ds2.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/9e7cf544f0656a3cb9fcebd2c6e9d4da4efb8eda",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Ds2.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds2.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/9e7cf544f0656a3cb9fcebd2c6e9d4da4efb8eda",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Ds2.mp3"
+    }
+  },
+  {
+    "name": "Ds2.ogg",
+    "path": "salamander/Ds2.ogg",
+    "sha": "ba5b691e59a6e17b0c5a3c08df9c733a5abeb5d8",
+    "size": 364446,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds2.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Ds2.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/ba5b691e59a6e17b0c5a3c08df9c733a5abeb5d8",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Ds2.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds2.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/ba5b691e59a6e17b0c5a3c08df9c733a5abeb5d8",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Ds2.ogg"
+    }
+  },
+  {
+    "name": "Ds3.mp3",
+    "path": "salamander/Ds3.mp3",
+    "sha": "ba3cc489b1fbde1fc14b5f5d6001bf76a3845721",
+    "size": 78717,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds3.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Ds3.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/ba3cc489b1fbde1fc14b5f5d6001bf76a3845721",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Ds3.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds3.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/ba3cc489b1fbde1fc14b5f5d6001bf76a3845721",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Ds3.mp3"
+    }
+  },
+  {
+    "name": "Ds3.ogg",
+    "path": "salamander/Ds3.ogg",
+    "sha": "edaceb5026ee2f2b1bba1b0072c7b2fa721c9c3d",
+    "size": 261623,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds3.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Ds3.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/edaceb5026ee2f2b1bba1b0072c7b2fa721c9c3d",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Ds3.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds3.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/edaceb5026ee2f2b1bba1b0072c7b2fa721c9c3d",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Ds3.ogg"
+    }
+  },
+  {
+    "name": "Ds4.mp3",
+    "path": "salamander/Ds4.mp3",
+    "sha": "f13123332b689eaa5af6e15e8522c09b6823aeb0",
+    "size": 73519,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds4.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Ds4.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/f13123332b689eaa5af6e15e8522c09b6823aeb0",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Ds4.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds4.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/f13123332b689eaa5af6e15e8522c09b6823aeb0",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Ds4.mp3"
+    }
+  },
+  {
+    "name": "Ds4.ogg",
+    "path": "salamander/Ds4.ogg",
+    "sha": "a102e9185b97f5806ea164a6765f322031d4fc0d",
+    "size": 259127,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds4.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Ds4.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/a102e9185b97f5806ea164a6765f322031d4fc0d",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Ds4.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds4.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/a102e9185b97f5806ea164a6765f322031d4fc0d",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Ds4.ogg"
+    }
+  },
+  {
+    "name": "Ds5.mp3",
+    "path": "salamander/Ds5.mp3",
+    "sha": "9a6a24b7076dbdf922a6540896dd058ab56841ec",
+    "size": 58179,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds5.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Ds5.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/9a6a24b7076dbdf922a6540896dd058ab56841ec",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Ds5.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds5.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/9a6a24b7076dbdf922a6540896dd058ab56841ec",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Ds5.mp3"
+    }
+  },
+  {
+    "name": "Ds5.ogg",
+    "path": "salamander/Ds5.ogg",
+    "sha": "21db1f1ca21cb06861ac871e3475e4aacc614898",
+    "size": 210822,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds5.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Ds5.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/21db1f1ca21cb06861ac871e3475e4aacc614898",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Ds5.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds5.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/21db1f1ca21cb06861ac871e3475e4aacc614898",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Ds5.ogg"
+    }
+  },
+  {
+    "name": "Ds6.mp3",
+    "path": "salamander/Ds6.mp3",
+    "sha": "14b38cd4717f5f7cfa1c4748341dcf7de3fd294b",
+    "size": 31395,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds6.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Ds6.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/14b38cd4717f5f7cfa1c4748341dcf7de3fd294b",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Ds6.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds6.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/14b38cd4717f5f7cfa1c4748341dcf7de3fd294b",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Ds6.mp3"
+    }
+  },
+  {
+    "name": "Ds6.ogg",
+    "path": "salamander/Ds6.ogg",
+    "sha": "8b74b44373f80d3a6f126278f8916c8689ca5d66",
+    "size": 115290,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds6.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Ds6.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/8b74b44373f80d3a6f126278f8916c8689ca5d66",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Ds6.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds6.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/8b74b44373f80d3a6f126278f8916c8689ca5d66",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Ds6.ogg"
+    }
+  },
+  {
+    "name": "Ds7.mp3",
+    "path": "salamander/Ds7.mp3",
+    "sha": "ea3e885f21f330c7313350f74fd58911b5948777",
+    "size": 22136,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds7.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Ds7.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/ea3e885f21f330c7313350f74fd58911b5948777",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Ds7.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds7.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/ea3e885f21f330c7313350f74fd58911b5948777",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Ds7.mp3"
+    }
+  },
+  {
+    "name": "Ds7.ogg",
+    "path": "salamander/Ds7.ogg",
+    "sha": "c20901bbd5380c40e16c101ee7d16c5e56b73457",
+    "size": 83051,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds7.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Ds7.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/c20901bbd5380c40e16c101ee7d16c5e56b73457",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Ds7.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Ds7.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/c20901bbd5380c40e16c101ee7d16c5e56b73457",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Ds7.ogg"
+    }
+  },
+  {
+    "name": "Fs1.mp3",
+    "path": "salamander/Fs1.mp3",
+    "sha": "254ecc45bc5d91d6667095e9aa8f29e05b4a3fac",
+    "size": 115010,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs1.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Fs1.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/254ecc45bc5d91d6667095e9aa8f29e05b4a3fac",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Fs1.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs1.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/254ecc45bc5d91d6667095e9aa8f29e05b4a3fac",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Fs1.mp3"
+    }
+  },
+  {
+    "name": "Fs1.ogg",
+    "path": "salamander/Fs1.ogg",
+    "sha": "c24bbf25259653e8948babf5cb000e917c5f5065",
+    "size": 367881,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs1.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Fs1.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/c24bbf25259653e8948babf5cb000e917c5f5065",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Fs1.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs1.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/c24bbf25259653e8948babf5cb000e917c5f5065",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Fs1.ogg"
+    }
+  },
+  {
+    "name": "Fs2.mp3",
+    "path": "salamander/Fs2.mp3",
+    "sha": "3d1de69b4a8c8644512c775360561c0db6b6db35",
+    "size": 102320,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs2.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Fs2.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/3d1de69b4a8c8644512c775360561c0db6b6db35",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Fs2.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs2.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/3d1de69b4a8c8644512c775360561c0db6b6db35",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Fs2.mp3"
+    }
+  },
+  {
+    "name": "Fs2.ogg",
+    "path": "salamander/Fs2.ogg",
+    "sha": "f9a7162a0c44536e14e9801b62e9d15da39acf28",
+    "size": 337880,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs2.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Fs2.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/f9a7162a0c44536e14e9801b62e9d15da39acf28",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Fs2.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs2.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/f9a7162a0c44536e14e9801b62e9d15da39acf28",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Fs2.ogg"
+    }
+  },
+  {
+    "name": "Fs3.mp3",
+    "path": "salamander/Fs3.mp3",
+    "sha": "c0971905449a89cab35ec7c5d654ea344a9cb90b",
+    "size": 77933,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs3.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Fs3.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/c0971905449a89cab35ec7c5d654ea344a9cb90b",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Fs3.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs3.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/c0971905449a89cab35ec7c5d654ea344a9cb90b",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Fs3.mp3"
+    }
+  },
+  {
+    "name": "Fs3.ogg",
+    "path": "salamander/Fs3.ogg",
+    "sha": "ed9789980ec97c2889bb6856270e395aa13c8bb7",
+    "size": 264396,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs3.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Fs3.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/ed9789980ec97c2889bb6856270e395aa13c8bb7",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Fs3.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs3.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/ed9789980ec97c2889bb6856270e395aa13c8bb7",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Fs3.ogg"
+    }
+  },
+  {
+    "name": "Fs4.mp3",
+    "path": "salamander/Fs4.mp3",
+    "sha": "780ba594653d6774b55ef1bcdc3d7513156b269d",
+    "size": 68219,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs4.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Fs4.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/780ba594653d6774b55ef1bcdc3d7513156b269d",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Fs4.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs4.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/780ba594653d6774b55ef1bcdc3d7513156b269d",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Fs4.mp3"
+    }
+  },
+  {
+    "name": "Fs4.ogg",
+    "path": "salamander/Fs4.ogg",
+    "sha": "f75241e5ee7710df735df467f56184c3fdd18261",
+    "size": 238720,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs4.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Fs4.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/f75241e5ee7710df735df467f56184c3fdd18261",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Fs4.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs4.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/f75241e5ee7710df735df467f56184c3fdd18261",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Fs4.ogg"
+    }
+  },
+  {
+    "name": "Fs5.mp3",
+    "path": "salamander/Fs5.mp3",
+    "sha": "5d4fcac5facadbe2a449af7a066fe24fb6dea782",
+    "size": 51597,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs5.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Fs5.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/5d4fcac5facadbe2a449af7a066fe24fb6dea782",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Fs5.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs5.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/5d4fcac5facadbe2a449af7a066fe24fb6dea782",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Fs5.mp3"
+    }
+  },
+  {
+    "name": "Fs5.ogg",
+    "path": "salamander/Fs5.ogg",
+    "sha": "d0c2a1c139126900277ca1e94ff87f16bdb49e29",
+    "size": 194579,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs5.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Fs5.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/d0c2a1c139126900277ca1e94ff87f16bdb49e29",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Fs5.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs5.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/d0c2a1c139126900277ca1e94ff87f16bdb49e29",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Fs5.ogg"
+    }
+  },
+  {
+    "name": "Fs6.mp3",
+    "path": "salamander/Fs6.mp3",
+    "sha": "ba3e062847ff431b0f9cafdcff6ce7f6ee5a46f2",
+    "size": 26478,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs6.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Fs6.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/ba3e062847ff431b0f9cafdcff6ce7f6ee5a46f2",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Fs6.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs6.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/ba3e062847ff431b0f9cafdcff6ce7f6ee5a46f2",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Fs6.mp3"
+    }
+  },
+  {
+    "name": "Fs6.ogg",
+    "path": "salamander/Fs6.ogg",
+    "sha": "009ab3c9e3c5fb6ec756e3a04b9775730a972e72",
+    "size": 101096,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs6.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Fs6.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/009ab3c9e3c5fb6ec756e3a04b9775730a972e72",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Fs6.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs6.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/009ab3c9e3c5fb6ec756e3a04b9775730a972e72",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Fs6.ogg"
+    }
+  },
+  {
+    "name": "Fs7.mp3",
+    "path": "salamander/Fs7.mp3",
+    "sha": "431195300fbb91e9dbc3332b48063e17d35d9066",
+    "size": 22709,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs7.mp3?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Fs7.mp3",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/431195300fbb91e9dbc3332b48063e17d35d9066",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Fs7.mp3",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs7.mp3?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/431195300fbb91e9dbc3332b48063e17d35d9066",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Fs7.mp3"
+    }
+  },
+  {
+    "name": "Fs7.ogg",
+    "path": "salamander/Fs7.ogg",
+    "sha": "14f802d974de18f832e62eed17dd8fa5652ab156",
+    "size": 86131,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs7.ogg?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/Fs7.ogg",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/14f802d974de18f832e62eed17dd8fa5652ab156",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/Fs7.ogg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/Fs7.ogg?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/14f802d974de18f832e62eed17dd8fa5652ab156",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/Fs7.ogg"
+    }
+  },
+  {
+    "name": "README",
+    "path": "salamander/README",
+    "sha": "e4e2029ff09dde8fc34f143dc035f1714b98cfdb",
+    "size": 1883,
+    "url": "https://api.github.com/repos/Tonejs/audio/contents/salamander/README?ref=master",
+    "html_url": "https://github.com/Tonejs/audio/blob/master/salamander/README",
+    "git_url": "https://api.github.com/repos/Tonejs/audio/git/blobs/e4e2029ff09dde8fc34f143dc035f1714b98cfdb",
+    "download_url": "https://raw.githubusercontent.com/Tonejs/audio/master/salamander/README",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/Tonejs/audio/contents/salamander/README?ref=master",
+      "git": "https://api.github.com/repos/Tonejs/audio/git/blobs/e4e2029ff09dde8fc34f143dc035f1714b98cfdb",
+      "html": "https://github.com/Tonejs/audio/blob/master/salamander/README"
+    }
+  }
+]

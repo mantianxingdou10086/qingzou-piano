@@ -1,0 +1,35 @@
+async (page) => {
+ const results=[];
+ const check=(ok,name)=>{if(!ok)throw new Error(name);results.push(name)};
+ await page.goto('http://localhost:4186');
+ check(await page.locator('.white').count()===8,'8 white keys');
+ check(await page.locator('.black').count()===5,'5 black keys');
+ await page.keyboard.down('a');await page.keyboard.down('d');await page.keyboard.down('g');
+ check(await page.locator('.active').count()===3,'keyboard chord: C4 E4 G4');
+ await page.waitForTimeout(100);
+ const audio=await page.evaluate(()=>{const data=new Float32Array(analyser.fftSize);analyser.getFloatTimeDomainData(data);return {state:ctx.state,signal:Math.max(...data.map(Math.abs)),voices:voices.size}});
+ check(audio.state==='running'&&audio.signal>0.001&&audio.voices===3,'audio graph outputs non-zero signal');
+ for(const k of ['a','d','g'])await page.keyboard.up(k);
+ await page.waitForTimeout(400);
+ check(await page.evaluate(()=>voices.size)===0,'release cleans voices');
+ await page.locator('#sustain').click();await page.keyboard.press('a');
+ check(await page.evaluate(()=>voices.size)===1,'sustain holds released note');
+ await page.locator('#sustain').click();await page.waitForTimeout(400);
+ check(await page.evaluate(()=>voices.size)===0,'sustain off releases note');
+ await page.keyboard.down('Space');await page.keyboard.press('s');
+ check(await page.evaluate(()=>voices.size)===1,'space pedal holds note');
+ await page.keyboard.up('Space');await page.waitForTimeout(400);
+ check(await page.evaluate(()=>voices.size)===0,'space pedal releases');
+ await page.locator('#up').click();check(await page.locator('#octave').textContent()==='C5','octave up');
+ const box=await page.locator('.white').first().boundingBox();
+ await page.mouse.move(box.x+box.width/2,box.y+box.height-40);await page.mouse.down();
+ check(await page.locator('.active').count()===1,'mouse presses key');await page.mouse.up();
+ check(await page.locator('.active').count()===0,'mouse releases key');
+ await page.keyboard.down('a');await page.evaluate(()=>window.dispatchEvent(new Event('blur')));
+ check(await page.evaluate(()=>voices.size)===0,'blur stops audio');await page.keyboard.up('a');
+ await page.setViewportSize({width:390,height:844});
+ check(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'mobile: no page overflow');
+ await page.setViewportSize({width:1280,height:900});
+ await page.screenshot({path:'output/playwright/piano.png',fullPage:true});
+ console.log(JSON.stringify({results,audio},null,2));
+}
